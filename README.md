@@ -17,7 +17,6 @@ MIT
 ```
 pip install git+https://github.com/StaticStartup/Profiler.git
 ```
-<br></br>
 
 ## Contributors
 
